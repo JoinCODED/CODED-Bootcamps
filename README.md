@@ -666,6 +666,10 @@
 
 **Instructors**
 
+```
+Django for life
+```
+
 - Nancy
 - Omar
 - Fatima
@@ -678,4 +682,8 @@
 
 ```shell
 Who love Django --- and FOOOOOOD --- More than flutter
+```
+
+```
+Python everyday
 ```
