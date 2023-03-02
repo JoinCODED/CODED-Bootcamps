@@ -683,8 +683,12 @@ Django for life
 
 **Students**
 - Waleed Almutairi @Waleedx7
+
+- bader alfaraj 
 ```shell
 Who do not love Django --- and FOOOOOOD --- More than flutter
 ```
 
 // comment
+
+- Manal Alajmi @mallollaa
