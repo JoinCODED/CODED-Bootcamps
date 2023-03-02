@@ -668,6 +668,13 @@
 
 - Nancy @nancyelsh
 - Omar @omsi96
+
+```
+Django for life
+```
+
+- Nancy
+- Omar
 - Fatima
 - Shereen AbdelQader @Shereengh
 - Yousef Al-Kandari @Alkandari-Y
@@ -678,4 +685,8 @@
 
 ```shell
 Who do not love Django --- and FOOOOOOD --- More than flutter
+```
+
+```
+Python everyday
 ```
