@@ -666,4 +666,16 @@
 
 **Instructors**
 
+- Nancy
+- Omar
+- Fatima
+- Shereen AbdelQader @Shereengh
+- Yousef Al-Kandari @Alkandari-Y
+- Ameera Alotaibi
+- Mohammad Alhumaidan @malhumaidan
+
 **Students**
+
+```shell
+Who love Django --- and FOOOOOOD --- More than flutter
+```
