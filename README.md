@@ -677,5 +677,5 @@
 **Students**
 
 ```shell
-Who love Django --- and FOOOOOOD --- More than flutter
+Who do not love Django --- and FOOOOOOD --- More than flutter
 ```
