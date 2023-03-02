@@ -666,12 +666,12 @@
 
 **Instructors**
 
-- Nancy
-- Omar
+- Nancy @nancyelsh
+- Omar @omsi96
 - Fatima
 - Shereen AbdelQader @Shereengh
 - Yousef Al-Kandari @Alkandari-Y
-- Ameera Alotaibi
+- Ameera Alotaibi @ameeraalotaibi
 - Mohammad Alhumaidan @malhumaidan
 
 **Students**
