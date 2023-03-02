@@ -682,6 +682,7 @@ Django for life
 - Mohammad Alhumaidan @malhumaidan
 
 **Students**
+Farah Aladwani
 
 ```shell
 Who do not love Django --- and FOOOOOOD --- More than flutter
