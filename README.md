@@ -684,15 +684,7 @@ Django for life
 **Students**
 
 - Waleed Almutairi @Waleedx7
-
-Farah Aladwani
-
-
-- bader alfaraj 
-```shell
-Who do not love Django --- and FOOOOOOD --- More than flutter
-```
--Anwar Alkandari @anwaralk
-// comment
-
+- Farah Aladwani
+- bader alfaraj
+- Anwar Alkandari @anwaralk
 - Manal Alajmi @mallollaa
