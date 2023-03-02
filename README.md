@@ -692,7 +692,7 @@ Farah Aladwani
 ```shell
 Who do not love Django --- and FOOOOOOD --- More than flutter
 ```
-
+-Anwar Alkandari @anwaralk
 // comment
 
 - Manal Alajmi @mallollaa
