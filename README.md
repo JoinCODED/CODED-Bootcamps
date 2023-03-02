@@ -687,6 +687,4 @@ Django for life
 Who do not love Django --- and FOOOOOOD --- More than flutter
 ```
 
-```
-Python everyday
-```
+// comment
