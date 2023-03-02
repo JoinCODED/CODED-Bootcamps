@@ -675,7 +675,7 @@ Django for life
 
 - Nancy
 - Omar
-- Fatima
+- Fatima Almomen @fatemah-alm
 - Shereen AbdelQader @Shereengh
 - Yousef Al-Kandari @Alkandari-Y
 - Ameera Alotaibi @ameeraalotaibi
