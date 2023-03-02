@@ -401,7 +401,7 @@
 - Sakeena Traif @SakeenaTraif 
 - Mohammad Hussein @mhussein15 
 - Nadeem Alqattan @nadeemalqattan 
-- Rabab Sayed Amin @robie09 robie08_@outlook.com
+- Rabab Sayed Amin @robie09
 - Ayman Alshaikh @AymanAlshaikh 
 - Hawra Ameer @HawraAmeer 
 - Ahmed Abdeen @A-Abdeen 
@@ -550,9 +550,9 @@
 - Fatma Kamshad = @FATMAKAMSHAD90 - 
 - Ahmed Dashti - @cupld - 
 - Abdulaziz Alfarhan - @a1000rhan - 
-- Mohammad Al-Hamdan @gmail.com
+- Mohammad Al-Hamdan
 - Taher Naqi  
-- Zainab AlSairafi @gmail.com
+- Zainab AlSairafi
 - Bader Mohsen - @Statcomm - 
 - Hamed AlNouri - @ripleyhyde - 
 
@@ -601,7 +601,7 @@
 - Aadel Alqaabi @aadelalqaabi  ✨
 - Hessa AlRahmani @HessaAlRahmani  ⚠️
 - Danah Alajmi @danahAlajmi  🌸
-- Nora Alobaidi @noraalobaidi nalobaidi_@hotmail.com 🐰
+- Nora Alobaidi @noraalobaidi 🐰
 - Abdullah Almutairi @0xglk 🎩
 - Bodour Alrashidi @bodouralrashidi  🌘
 - Doha Almusallam @dohaisalive  🤡
