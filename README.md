@@ -682,8 +682,15 @@ Django for life
 - Mohammad Alhumaidan @malhumaidan
 
 **Students**
+
 -dana sheer @danasheer
+
+
+- Waleed Almutairi @Waleedx7
+
+
 Farah Aladwani
+
 
 - bader alfaraj 
 ```shell
