@@ -666,6 +666,9 @@
 
 **Instructors**
 
+- Nancy @nancyelsh
+- Omar @omsi96
+
 ```
 Django for life
 ```
@@ -675,15 +678,13 @@ Django for life
 - Fatima
 - Shereen AbdelQader @Shereengh
 - Yousef Al-Kandari @Alkandari-Y
-- Ameera Alotaibi
+- Ameera Alotaibi @ameeraalotaibi
 - Mohammad Alhumaidan @malhumaidan
 
 **Students**
 
 ```shell
-Who love Django --- and FOOOOOOD --- More than flutter
+Who do not love Django --- and FOOOOOOD --- More than flutter
 ```
 
-```
-Python everyday
-```
+// comment
