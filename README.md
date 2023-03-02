@@ -682,6 +682,7 @@ Django for life
 - Mohammad Alhumaidan @malhumaidan
 
 **Students**
+Farah Aladwani
 
 - bader alfaraj 
 ```shell
