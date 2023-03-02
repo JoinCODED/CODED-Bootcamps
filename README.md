@@ -683,6 +683,7 @@ Django for life
 
 **Students**
 
+- dana sheer @danasheer
 - Waleed Almutairi @Waleedx7
 - Farah Aladwani
 - bader alfaraj
