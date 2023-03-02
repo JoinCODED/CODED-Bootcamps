@@ -683,5 +683,13 @@ Django for life
 
 **Students**
 -dana sheer @danasheer
+Farah Aladwani
+
+- bader alfaraj 
+```shell
+Who do not love Django --- and FOOOOOOD --- More than flutter
+```
 
 // comment
+
+- Manal Alajmi @mallollaa
