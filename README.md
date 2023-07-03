@@ -704,6 +704,7 @@ NextJs + Tailwind == Bosss!
 - Fatima Almomen @fatemah-alm
 
 **Students**
+-Turki Alazemi @Alrweashd
 
 - Mohammed Alfoudari @MHfoudari
 
@@ -714,4 +715,5 @@ NextJs + Tailwind == Bosss!
 - Abdulaziz Alenezi @Azmenezi
 
 - Mariam Alrashdan
+- Noura Alhamdan @NouraNou
   -Meshari Alrashidi @Mesharikw85
