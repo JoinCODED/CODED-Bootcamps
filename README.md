@@ -711,9 +711,9 @@ NextJs + Tailwind == Bosss!
 
 - Meshari Alrashidi @Mesharikw85
 
-- Nouf alajmi
+Abdullah Fahad @iamabdullahkw
 
--Turki Alazemi @Alrweashd
+- Turki Alazemi @Alrweashd
 
 - Mohammed Alfoudari @MHfoudari
 
