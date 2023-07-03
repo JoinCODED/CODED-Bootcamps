@@ -689,3 +689,21 @@ Django for life
 - bader alfaraj
 - Anwar Alkandari @anwaralk
 - Manal Alajmi @mallollaa
+
+## Full-Stack (React-Express) Summer Bootcamp 2023 🌞
+
+```
+Express for life
+```
+
+```
+NextJs + Tailwind == Bosss!
+```
+
+**Instructors**
+
+- Nancy @nancyelsh
+- Omar @omsi96
+- Shereen @shereengh
+- Ali AlSarraf @engxli
+- Yousef AlKandari @alkandari-y
