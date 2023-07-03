@@ -705,6 +705,9 @@ NextJs + Tailwind == Bosss!
 
 **Students**
 
+- Mohammed Alfoudari
+
 - Fahad Ahmed @Fahad-Ha
 
 - Abdulaziz Alenezi @Azmenezi
+
