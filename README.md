@@ -705,4 +705,6 @@ NextJs + Tailwind == Bosss!
 
 **Students**
 
-- Fahd @Fahad-Ha
+- Fahad Ahmed @Fahad-Ha
+
+- Abdulaziz Alenezi @Azmenezi
