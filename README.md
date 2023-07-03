@@ -714,4 +714,4 @@ NextJs + Tailwind == Bosss!
 
 - Abdulaziz Alenezi @Azmenezi
 
--Mariam Alrashdan
+- Mariam Alrashdan
