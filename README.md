@@ -705,8 +705,7 @@ NextJs + Tailwind == Bosss!
 
 **Students**
 
-# Nouf alajmi
-
+- Nouf alajmi
 - Dalia @methreban2023
 - Turki Alazemi @Alrweashd
 - Mohammed Alfoudari @MHfoudari
