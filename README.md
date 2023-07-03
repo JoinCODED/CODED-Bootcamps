@@ -717,3 +717,4 @@ NextJs + Tailwind == Bosss!
 - Mariam Alrashdan
 - Noura Alhamdan @NouraNou
 - Mohammad Alqatami @MohammadBQ
+- Abdullah Fahad @iamabdullahkw
