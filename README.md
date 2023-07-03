@@ -705,4 +705,4 @@ NextJs + Tailwind == Bosss!
 
 **Students**
 Fahd @Fahad-Ha
-Mohammad Alqatami
+Mohammad Alqatami @MohammadBQ
