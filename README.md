@@ -713,5 +713,6 @@ NextJs + Tailwind == Bosss!
 
 - Fahad Ahmed @Fahad-Ha
 - Abdulaziz Alenezi @Azmenezi
--Meshari Alrashidi @Mesharikw85
 
+- Noura Alhamdan @NouraNou
+  -Meshari Alrashidi @Mesharikw85
