@@ -704,5 +704,5 @@ NextJs + Tailwind == Bosss!
 - Fatima Almomen @fatemah-alm
 
 **Students**
-
-- Fahd @Fahad-Ha
+Fahd @Fahad-Ha
+Mohammad Alqatami
