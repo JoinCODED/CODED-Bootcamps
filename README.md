@@ -706,29 +706,21 @@ NextJs + Tailwind == Bosss!
 **Students**
 
 - Fahad Ahmed @Fahad-Ha
-
 - Abdulaziz Alenezi @Azmenezi
-
 - Meshari Alrashidi @Mesharikw85
-
 - Nouf alajmi
 - Dalia @methreban2023
 - Turki Alazemi @Alrweashd
-
-Abdullah Fahad @iamabdullahkw
-
+- Abdullah Fahad @iamabdullahkw
 - Turki Alazemi @Alrweashd
-
 - Mohammed Alfoudari @MHfoudari
-
 - Ahmad Naqawa @Ahmaad2001
-
 - Fahd @Fahad-Ha
 - Dalia @methreban2023
-
 - Fahad Ahmed @Fahad-Ha
 - Abdulaziz Alenezi @Azmenezi
 - Mariam Alrashdan
 - Noura Alhamdan @NouraNou
 - Mohammad Alqatami @MohammadBQ
+
 - Abdullah AlMatouq @xDelusion
