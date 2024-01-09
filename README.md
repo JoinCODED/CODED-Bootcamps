@@ -714,6 +714,7 @@
 - Mariam Alrashdan
 - Noura Alhamdan @NouraNou
 - Mohammad Alqatami @MohammadBQ
+- Abdullah Fahad @iamabdullahkw
 - Abdullah AlMatouq @xDelusion
 
 ## Fursa Tech 2023 👩🏻‍💻🧑🏻‍💻
@@ -729,3 +730,4 @@
 - Ahmad Musallam @Ahmadal26
 - Hassan Alshammeri
 - Reem Baset
+
