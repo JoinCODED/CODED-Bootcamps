@@ -745,5 +745,6 @@
 - Maha Salem @mahaawadh1
 - Awdhah Alazemi @AwdhahAlazmi
 - Feras Alshadad @Feras432
+- Othman Al Kous @alkousothman
 - Nada Alshaibani @NadaAlsh
 - Aseel Abdulghagour @AseelAbdulghafour
