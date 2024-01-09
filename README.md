@@ -698,8 +698,8 @@
 
 **Students**
 
-
 =======
+
 - Ahmad Musallam @Ahmadal26
 - Humoud AlGhanim @HAlGhanim 👺
 - Fahad Ahmed @Fahad-Ha
@@ -723,6 +723,7 @@
 - Salwa Baqer @SalwaBaqer
 - Nawaf Almutairi @iNawafalm
 - Abdullah Alhusainan @gitHub
+- Omar Alibrahim @omsi
 
 **Students**
 
