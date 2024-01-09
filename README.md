@@ -715,7 +715,6 @@
 - Noura Alhamdan @NouraNou
 - Mohammad Alqatami @MohammadBQ
 - Abdullah AlMatouq @xDelusion
-<<<<<<< HEAD
 
 ## Fursa Tech 2023 👩🏻‍💻🧑🏻‍💻
 
@@ -724,11 +723,7 @@
 - Salwa Baqer @SalwaBaqer
 - Nawaf Almutairi @iNawafalm
 - Abdullah Alhusainan @gitHub
-- Omar Alibrahim @omsi
 
 **Students**
 
 - Ahmad Musallam @Ahmadal26
-=======
-- THIS IS MY NAME :)
->>>>>>> my_branch
