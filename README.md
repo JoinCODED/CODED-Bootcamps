@@ -715,6 +715,7 @@
 - Mariam Alrashdan
 - Noura Alhamdan @NouraNou
 - Mohammad Alqatami @MohammadBQ
+- Abdullah Fahad @iamabdullahkw
 - Abdullah AlMatouq @xDelusion
 
 ## Fursa Tech 2023 👩🏻‍💻🧑🏻‍💻
@@ -724,7 +725,6 @@
 - Salwa Baqer @SalwaBaqer
 - Nawaf Almutairi @iNawafalm
 - Abdullah Alhusainan @gitHub
-- Omar Alibrahim @omsi
 
 **Students**
 
