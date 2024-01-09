@@ -698,10 +698,7 @@
 
 **Students**
 
-=======
-
 - Ahmad Musallam @Ahmadal26
-  here is the conflict
 - Humoud AlGhanim @HAlGhanim 👺
 - Fahad Ahmed @Fahad-Ha
 - Abdulaziz Alenezi @Azmenezi 👽
@@ -729,3 +726,4 @@
 **Students**
 
 - Ahmad Musallam @Ahmadal26
+
