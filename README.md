@@ -712,3 +712,15 @@
 - Noura Alhamdan @NouraNou
 - Mohammad Alqatami @MohammadBQ
 - Abdullah AlMatouq @xDelusion
+
+## Fursa Tech 2023 👩🏻‍💻🧑🏻‍💻
+
+**Instructors**
+
+- Salwa Baqer @SalwaBaqer
+- Nawaf Almutairi @iNawafalm
+- Abdullah Alhusainan @gitHub
+
+**Students**
+
+-
