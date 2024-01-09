@@ -698,8 +698,11 @@
 
 **Students**
 
-=======
-
+- Abdullah Fahad @iamabdullahkw
+- Mohammed Alfoudari
+- Fahad Ahmed @Fahad-Ha
+- Abdulaziz Alenezi @Azmenezi
+- Mariam Alrashdan @Mariam-HA
 - Ahmad Musallam @Ahmadal26
 - Humoud AlGhanim @HAlGhanim 👺
 - Fahad Ahmed @Fahad-Ha
@@ -714,6 +717,7 @@
 - Mariam Alrashdan
 - Noura Alhamdan @NouraNou
 - Mohammad Alqatami @MohammadBQ
+- Abdullah Fahad @iamabdullahkw
 - Abdullah AlMatouq @xDelusion
 
 ## Fursa Tech 2023 👩🏻‍💻🧑🏻‍💻
@@ -723,9 +727,10 @@
 - Salwa Baqer @SalwaBaqer
 - Nawaf Almutairi @iNawafalm
 - Abdullah Alhusainan @gitHub
-- Omar Alibrahim @omsi
 
 **Students**
 
 - Ahmad Musallam @Ahmadal26
 - Mubarak AlOraifan @Mubarak68
+
+
