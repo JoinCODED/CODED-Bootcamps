@@ -701,6 +701,7 @@
 =======
 
 - Ahmad Musallam @Ahmadal26
+  here is the conflict
 - Humoud AlGhanim @HAlGhanim 👺
 - Fahad Ahmed @Fahad-Ha
 - Abdulaziz Alenezi @Azmenezi 👽
@@ -715,7 +716,6 @@
 - Noura Alhamdan @NouraNou
 - Mohammad Alqatami @MohammadBQ
 - Abdullah AlMatouq @xDelusion
-<<<<<<< HEAD
 
 ## Fursa Tech 2023 👩🏻‍💻🧑🏻‍💻
 
@@ -729,6 +729,3 @@
 **Students**
 
 - Ahmad Musallam @Ahmadal26
-=======
-- THIS IS MY NAME :)
->>>>>>> my_branch
