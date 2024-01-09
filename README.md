@@ -674,6 +674,7 @@
 - Yousef Al-Kandari @Alkandari-Y
 - Ameera Alotaibi @ameeraalotaibi
 - Mohammad Alhumaidan @malhumaidan
+- Salwa Baqer @SalwaBaqer
 
 **Students**
 
@@ -685,14 +686,6 @@
 - Manal Alajmi @mallollaa
 
 ## Full-Stack (React-Express) Summer Bootcamp 2023 🌞🍉
-
-```
-Express for life
-```
-
-```
-NextJs + Tailwind == Bosss!
-```
 
 **Instructors**
 
