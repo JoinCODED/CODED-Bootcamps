@@ -674,6 +674,7 @@
 - Yousef Al-Kandari @Alkandari-Y
 - Ameera Alotaibi @ameeraalotaibi
 - Mohammad Alhumaidan @malhumaidan
+- Salwa Baqer @SalwaBaqer
 
 **Students**
 
@@ -686,14 +687,6 @@
 
 ## Full-Stack (React-Express) Summer Bootcamp 2023 🌞🍉
 
-```
-Express for life
-```
-
-```
-NextJs + Tailwind == Bosss!
-```
-
 **Instructors**
 
 - Nancy @nancyelsh
@@ -704,4 +697,33 @@ NextJs + Tailwind == Bosss!
 - Fatima Almomen @fatemah-alm
 
 **Students**
-Ahmad Musallam @Musallam296
+
+
+=======
+- Ahmad Musallam @Ahmadal26
+- Humoud AlGhanim @HAlGhanim 👺
+- Fahad Ahmed @Fahad-Ha
+- Abdulaziz Alenezi @Azmenezi 👽
+- Meshari Alrashidi @Mesharikw85
+- Nouf alajmi
+- Dalia @methreban2023
+- Turki Alazemi @Alrweashd
+- Abdullah Fahad @iamabdullahkw
+- Mohammed Alfoudari @MHfoudari
+- Ahmad Naqawa @Ahmaad2001
+- Mariam Alrashdan
+- Noura Alhamdan @NouraNou
+- Mohammad Alqatami @MohammadBQ
+- Abdullah AlMatouq @xDelusion
+
+## Fursa Tech 2023 👩🏻‍💻🧑🏻‍💻
+
+**Instructors**
+
+- Salwa Baqer @SalwaBaqer
+- Nawaf Almutairi @iNawafalm
+- Abdullah Alhusainan @gitHub
+
+**Students**
+
+- Ahmad Musallam @Ahmadal26
