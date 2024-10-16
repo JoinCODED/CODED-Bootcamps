@@ -753,3 +753,11 @@
 - Othman Al Kous @alkousothman
 - Nada Alshaibani @NadaAlsh
 - Razan Alshatti @razanalshatti
+
+## Burgan Lab 2024 👩🏻‍💻🧑🏻‍💻
+
+**Instructors**
+- Ali Taqi
+- Salwa Baqer
+
+**Students**
