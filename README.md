@@ -757,10 +757,13 @@
 ## Burgan Lab 2024 👩🏻‍💻🧑🏻‍💻
 
 **Instructors**
+
 - Ali Taqi
 - Salwa Baqer
 
 **Students**
+
 - Yousef Alfaili
 - Abdulwahab Abdal
 - Hussain Alqallaf
+- Meshari Alhouli
