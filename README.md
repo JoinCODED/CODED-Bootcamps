@@ -758,8 +758,8 @@
 
 **Instructors**
 
-- Ali Taqi
-- Salwa Baqer
+- Ali Taqi ⭐️
+- Salwa Baqer 🪄
 
 **Students**
 
