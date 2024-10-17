@@ -778,6 +778,7 @@
 
 **Instructors**
 
+- Abdulaziz Alsaffar @octowl
 - Tariq Bazadough @TariqBazadough
 
 **Students**
