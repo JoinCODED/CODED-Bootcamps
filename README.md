@@ -776,6 +776,6 @@
 
 ## Boubyan Technology Academy 2024
 
-**Inztructorz**
+**Instructors**
 
-**Ztudentz**
+**Students**
