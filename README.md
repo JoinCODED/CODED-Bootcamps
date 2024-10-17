@@ -784,5 +784,8 @@
 **Students**
 
 - Meshal Almutairi [@mshll](https://github.com/mshll)
+- Janna Almuqaisib @jannakam
 - Ibrahim Alibrahim [@EngrIbrahimAdnan](https://github.com/EngrIbrahimAdnan)
 - Mohammad Baqer [@momadAB](https://github.com/momadAB)
+- Hamad Faleh Alhajeri [@alhajerih](https://github.com/alhajerih)
+- Abdullah Alhumaidhan @aalhumaidhan
