@@ -780,8 +780,8 @@
 
 - Abdulaziz Alsaffar @octowl
 - Tariq Bazadough @TariqBazadough
-- Yousef Almasaeed
 
 **Students**
 
 - Meshal Almutairi [@mshll](https://github.com/mshll)
+- Yousef Almasaeed [@yousefalm1](https://github.com/yousefalm1)
