@@ -778,4 +778,6 @@
 
 **Instructors**
 
+- Tariq Bazadough @TariqBazadough
+
 **Students**
