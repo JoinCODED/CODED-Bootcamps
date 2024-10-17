@@ -778,8 +778,8 @@
 
 **Instructors**
 
-- Abdulaziz Alsaffar @octowl
-- Tariq Bazadough @TariqBazadough
+- Abdulaziz Alsaffar [@octowl](https://github.com/octowl) 🐙
+- Tariq Bazadough [@TariqBazadough](https://github.com/TariqBazadough) 🧙🏼‍♂️
 
 **Students**
 
