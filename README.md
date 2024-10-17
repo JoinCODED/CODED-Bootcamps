@@ -784,3 +784,4 @@
 **Students**
 
 - Meshal Almutairi [@mshll](https://github.com/mshll)
+- Fajri Alhusaini [@fajri1997](https://github.com/fajri1997)
