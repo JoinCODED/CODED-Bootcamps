@@ -783,6 +783,5 @@
 
 **Students**
 
-- Meshal Almutairi [@mshll](https://github.com/mshll)
-
-danah alhazeem @danalhazeem
+- Meshal Almutairi [@mshll](https://github.com/mshll)s
+- danah alhazeem @danalhazeem(https://github.com/JoinCODED/CODED-Bootcamps.git)
