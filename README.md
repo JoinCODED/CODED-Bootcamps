@@ -783,9 +783,9 @@
 
 **Students**
 
-- Salem Almutairi @SalemALM
-- Meshal Almutairi [@mshll](https://github.com/mshll)
-- Osama Albader @OSAMA-ALBADER
+- Meshal Almutairi [@mshll](https://github.com/mshll) 👤
+- Salem Almutairi [@SalemALM](https://github.com/SalemALM)
+- Osama Albader [@OSAMA-ALBADER](https://github.com/OSAMA-ALBADER)
 - Abdulrahman Alfahad [@Abdulrahman-G-Alfahad](https://github.com/Abdulrahman-G-Alfahad)
 - Yousef Almasaeed [@yousefalm1](https://github.com/yousefalm1)
 - Janna Almuqaisib [@jannakam](https://github.com/jannakam)
@@ -795,7 +795,7 @@
 - Hamad Faleh Alhajeri [@alhajerih](https://github.com/alhajerih)
 - Abdulwahab Alawadhi [@Althystro](https://github.com/Althystro)
 - Fajri alhusaini [@fajri1997](https://github.com/fajri1997)
-- Abdullah Alhumaidhan @aalhumaidhan
-- Nora Almarri @nhalmarri
-- danah alhazeem @danalhazeem(https://github.com/JoinCODED/CODED-Bootcamps.git)
-- Fatmah Al Hamad @fh292
+- Abdullah Alhumaidhan [@aalhumaidhan](https://github.com/aalhumaidhan)
+- Nora Almarri [@nhalmarri](https://github.com/nhalmarri)
+- danah alhazeem [@danalhazeem](https://github.com/danalhazeem)
+- Fatmah Al Hamad [@fh292](https://github.com/fh292)
