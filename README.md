@@ -775,3 +775,7 @@
 - Batol Alashwak
 
 ## Boubyan Technology Academy 2024
+
+**Inztructorz**
+
+**Ztudentz**
