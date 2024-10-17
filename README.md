@@ -793,6 +793,5 @@
 - Hamad Faleh Alhajeri [@alhajerih](https://github.com/alhajerih)
 - Abdulwahab Alawadhi [@Althystro](https://github.com/Althystro)
 - Fajri alhusaini [@fajri1997](https://github.com/fajri1997)
-
 - Abdullah Alhumaidhan @aalhumaidhan
 - Nora Almarri @nhalmarri
