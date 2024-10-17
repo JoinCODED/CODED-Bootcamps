@@ -787,7 +787,7 @@
 - Osama Albader @OSAMA-ALBADER
 - Abdulrahman Alfahad [@Abdulrahman-G-Alfahad](https://github.com/Abdulrahman-G-Alfahad)
 - Yousef Almasaeed [@yousefalm1](https://github.com/yousefalm1)
-- Janna Almuqaisib [@jannakam](https://github.com/jannakam)>>>>>>> main
+- Janna Almuqaisib [@jannakam](https://github.com/jannakam)
 - Ibrahim Alibrahim [@EngrIbrahimAdnan](https://github.com/EngrIbrahimAdnan)
 - Mohammad Baqer [@momadAB](https://github.com/momadAB)
 - Saja AAl Bin Ali [@Saja-Albinali](https://github.com/Saja-Albinali)
@@ -795,4 +795,5 @@
 - Abdulwahab Alawadhi [@Althystro](https://github.com/Althystro)
 - Abdullah Alhumaidhan @aalhumaidhan
 - Nora Almarri @nhalmarri
+- danah alhazeem @danalhazeem(https://github.com/JoinCODED/CODED-Bootcamps.git)
 - Fatmah Al Hamad @fh292
