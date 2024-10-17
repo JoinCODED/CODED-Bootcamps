@@ -785,3 +785,6 @@
 
 - Meshal Almutairi [@mshll](https://github.com/mshll)
 - Yousef Almasaeed [@yousefalm1](https://github.com/yousefalm1)
+- Janna Almuqaisib [@jannakam](https://github.com/jannakam)
+- Ibrahim Alibrahim [@EngrIbrahimAdnan](https://github.com/EngrIbrahimAdnan)
+- Hamad Faleh Alhajeri [@alhajerih](https://github.com/alhajerih)
