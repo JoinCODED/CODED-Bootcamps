@@ -784,7 +784,11 @@
 **Students**
 
 - Meshal Almutairi [@mshll](https://github.com/mshll)
+<<<<<<< HEAD
+- Abdulrahman Alfahad [@Abdulrahman-G-Alfahad](https://github.com/Abdulrahman-G-Alfahad)
+=======
 - Janna Almuqaisib @jannakam
+>>>>>>> main
 - Ibrahim Alibrahim [@EngrIbrahimAdnan](https://github.com/EngrIbrahimAdnan)
 - Hamad Faleh Alhajeri [@alhajerih](https://github.com/alhajerih)
 - Abdullah Alhumaidhan @aalhumaidhan
